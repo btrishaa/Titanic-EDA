@@ -1,6 +1,8 @@
 # Titanic-EDA
 Exploratory Data analysis of the Titanic disaster dataset
 
+https://github.com/btrishaa/Titanic-EDA.git
+
 ### Prerequisite:
 * [NumPy](http://www.numpy.org/)
 * [IPython](http://ipython.org/)
